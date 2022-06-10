@@ -1,5 +1,5 @@
-<h3 align=”center”>This repo holds some redpill extensions, use at your own risk</h3>
-<h3 align=”center”>Test the extensions and if they do not work as intended please open an issue</h3>
+<h3 align=”center”>这个 repo 包含一些 redpill 扩展，使用风险自负</h3>
+<h3 align=”center”>测试扩展，如果它们不能按预期工作，请打开一个问题</h3>
 Extension Name: "aacraid" Description : "Adds  Support"
 <a href="https://raw.githubusercontent.com/pocopico/rp-ext/master/aacraid/rpext-index.json">LINK</a><br>
 Extension Name: "aic94xx" Description : "Adds Adaptec aic94xx SAS/SATA driver Support"
